@@ -1,0 +1,7 @@
+// THIS FILE IS AN EXAMPLE, YOU SHOULD CHANGE IT AS SAID IN THE DESCRIPTION
+
+italy.txt
+./dir3/india.txt
+./dir2/usa.txt
+./dir1/france.txt
+./firstdir/secondir/germ.txt
